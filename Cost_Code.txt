@@ -1,1 +1,1 @@
-Tea Cost is Rs.20 - Test
+Tea Cost is Rs.20 - Updated from Github
